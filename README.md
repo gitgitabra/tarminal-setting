@@ -1,4 +1,4 @@
-vimrc
+tarminal setting
 =====
 
-This repository about .vimrc setting.
+This repository has setting-files about shell-tarminal.
